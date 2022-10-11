@@ -1,6 +1,6 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ISP160)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ISP160)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AP280)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AP280)
 
-# ISP160 - SAP Customer Data Platform
+# AP280 - SAP Customer Data Platform
 
 ## Description
 This repository contains the material for the SAP TechEd 2021 session called ISP160 - SAP Customer Data Platform.  
