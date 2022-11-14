@@ -38,6 +38,7 @@ In this exercise we'll configure SAP CDP Business-Unit:
 * Create a CDP Connector
   * Simulating activating a priority delivery for a VIP customer
  
+Start the exercises [here](exercises/ex1.md).
 
 ## How to obtain support
 
